@@ -21,6 +21,7 @@ public class Driver {
     private Driver() {
     }
 
+    //some changes
     private static WebDriver driver;
 
     public static WebDriver getDriver() {
